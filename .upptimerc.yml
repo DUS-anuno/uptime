@@ -7,8 +7,6 @@ sites:
     url: https://us.dlink.com
   - name: D-Link Core
     url: http://dlink.com
-  - name: OneCRM
-    url: https://onecrm.us.dlink.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
