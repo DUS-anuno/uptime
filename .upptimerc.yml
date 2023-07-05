@@ -19,7 +19,7 @@ status-website:
   introTitle: "Thank you **Upptime** for this great Open Source software."
   introMessage: I hope you are here for a good reason. :)
   navbar:
-    - title: Status
+    - title: D-Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
