@@ -15,7 +15,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: D-Status
   introTitle: "D-Link Status Page"
-  introMessage: I hope you are here for a good reason. :)
+  introMessage: I hope you are here for a good reason! :)
   navbar:
     - title: D-Status
       href: /
