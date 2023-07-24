@@ -4,19 +4,19 @@
     "url": "https://us.dlink.com",
     "icon": "https://icons.duckduckgo.com/ip3/us.dlink.com.ico",
     "slug": "d-link-us",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.83%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 2597,
-    "timeDay": 1455,
-    "timeWeek": 5194,
-    "timeMonth": 2597,
-    "timeYear": 2597,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.37%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 2589,
+    "timeDay": 1924,
+    "timeWeek": 4882,
+    "timeMonth": 2589,
+    "timeYear": 2589,
     "dailyMinutesDown": {
-      "2023-07-24": 3
+      "2023-07-24": 9
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "http://dlink.com",
     "icon": "https://icons.duckduckgo.com/ip3/dlink.com.ico",
     "slug": "d-link-core",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2596,
-    "timeDay": 1645,
-    "timeWeek": 5096,
-    "timeMonth": 2596,
-    "timeYear": 2596,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 2589,
+    "timeDay": 2041,
+    "timeWeek": 4764,
+    "timeMonth": 2589,
+    "timeYear": 2589,
     "dailyMinutesDown": {
-      "2023-07-24": 0
+      "2023-07-24": 7
     }
   }
 ]
