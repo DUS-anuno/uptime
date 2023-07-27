@@ -4,18 +4,20 @@
     "url": "https://us.dlink.com",
     "icon": "https://icons.duckduckgo.com/ip3/us.dlink.com.ico",
     "slug": "d-link-us",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2611,
-    "timeDay": 1695,
-    "timeWeek": 3710,
-    "timeMonth": 2611,
-    "timeYear": 2611,
-    "dailyMinutesDown": {}
+    "time": 2566,
+    "timeDay": 1263,
+    "timeWeek": 2679,
+    "timeMonth": 2566,
+    "timeYear": 2566,
+    "dailyMinutesDown": {
+      "2023-07-27": 1
+    }
   },
   {
     "name": "D-Link Core",
@@ -28,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2597,
-    "timeDay": 1565,
-    "timeWeek": 3395,
-    "timeMonth": 2597,
-    "timeYear": 2597,
+    "time": 2550,
+    "timeDay": 1328,
+    "timeWeek": 2725,
+    "timeMonth": 2550,
+    "timeYear": 2550,
     "dailyMinutesDown": {}
   }
 ]
