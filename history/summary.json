@@ -4,10 +4,10 @@
     "url": "https://us.dlink.com",
     "icon": "https://icons.duckduckgo.com/ip3/us.dlink.com.ico",
     "slug": "d-link-us",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
     "time": 1946,
@@ -16,6 +16,7 @@
     "timeMonth": 1571,
     "timeYear": 1946,
     "dailyMinutesDown": {
+      "2023-09-08": 2,
       "2023-08-16": 22
     }
   },
@@ -24,18 +25,19 @@
     "url": "http://dlink.com",
     "icon": "https://icons.duckduckgo.com/ip3/dlink.com.ico",
     "slug": "d-link-core",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
     "time": 1863,
-    "timeDay": 1267,
+    "timeDay": 1247,
     "timeWeek": 1203,
     "timeMonth": 1427,
     "timeYear": 1863,
     "dailyMinutesDown": {
+      "2023-09-08": 0,
       "2023-08-16": 20
     }
   }
