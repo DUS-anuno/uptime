@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1824,
-    "timeDay": 2289,
-    "timeWeek": 1369,
-    "timeMonth": 1480,
-    "timeYear": 1824,
+    "time": 1819,
+    "timeDay": 1268,
+    "timeWeek": 1381,
+    "timeMonth": 1486,
+    "timeYear": 1819,
     "dailyMinutesDown": {
       "2023-08-16": 22
     }
@@ -25,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/dlink.com.ico",
     "slug": "d-link-core",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
-    "time": 1743,
-    "timeDay": 1192,
-    "timeWeek": 1142,
-    "timeMonth": 1418,
-    "timeYear": 1743,
+    "uptimeYear": "99.99%",
+    "time": 1738,
+    "timeDay": 1186,
+    "timeWeek": 1137,
+    "timeMonth": 1422,
+    "timeYear": 1738,
     "dailyMinutesDown": {
       "2023-08-16": 20
     }
